@@ -40,7 +40,7 @@ body {
   justify-content: center;
   align-items: center;*/
   position: relative;
-  background-color: black;
+/*   background-color: black; */
   width: 400px;
   height: 132.5px;
   border-radius: 0% 0% 0% 100% / 0% 0% 0% 62%;
@@ -104,7 +104,7 @@ body {
   justify-content: center;
   align-items: center;
   position: relative;
-  background-color: black;
+/*   background-color: black; */
   width: 400px;
   height: 390.5px;
   margin-top: 10px;
@@ -175,7 +175,7 @@ body {
   justify-content: center;
   align-items: center;
   position: relative;
-  background-color: black;
+/*   background-color: black; */
   width: 400px;
   height: 450px;
   margin-top: 80px;
@@ -246,7 +246,7 @@ body {
   justify-content: center;
   align-items: center;
   position: relative;
-  background-color: black;
+/*   background-color: black; */
   width: 400px;
   height: 350px;
   margin-bottom: 70px;
@@ -308,7 +308,7 @@ body {
   justify-content: center;
   align-items: center;
   position: relative;
-  background-color: black;
+/*   background-color: black; */
   width: 400px;
   height: 110px;
   transition: 0.5s;
